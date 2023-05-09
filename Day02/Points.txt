@@ -1,0 +1,144 @@
+
+Farmer -  3 daughters
+			
+			1       2       3
+			k1		 k1			k1
+
+
+Mangoes	-	
+
+1st daughter - 3 parts		- 1 extra (k1) -> take 1 part
+
+2nd daughter - 3 parts		- 1 extra (k1) -> take 1 part
+
+3rd daughter - 3 parts		- 1 extra (k1) -> take 1 part
+
+Farmer - divides the mangoes into three parts 
+
+find the number of mangoes kept in the room intially -  5 numbers
+
+25 => 25 % 3 = 1, 8
+16 => 16 % 3 = 1, 5
+10 => 10 % 3 = 1, 3
+6  => 10 % 3 = 0, 2
+
+Today's Topics
+--------------
+1. operators
+2. Strings
+3. Lists, Arrays
+
+
+a. Arithmetic Operators
+b. Comparison or Relational
+c. Logical Operators
+d. Bitwise Operators
+e. Ternary Operator
+
+--------------------------------------------
+
+Bitwise
+-------
+5 -		0101
+3 - 	0011
+		----
+		0111	-	7
+			2**0	1
+		  2**1		2
+       2**2		4	
+   					7
+AND
+---
+5 -		0101
+3 -		0011
+		----
+		0001
+		----
+XOR
+---
+5 -		0101
+3 -		0011
+		----
+		0110
+		----
+<<1
+--			
+5 - 0101
+    01010		- 10
+
+8 - 1000
+	 10000		-	16
+
+5 - 0101
+    010100	- 20
+
+Strings
+-------
+Strings are immutable
+
+enclosed in '' or "" or '''  ''' or  """ """
+
+"this is the first line"
+'this is the first line'
+
+"this is'nt the first line"
+'this is\'nt the first line'
+
+
+'''
+this is the first line
+this is the second line
+'''
+
+"""
+this is the first line
+this is the second line
+"""
+
+Data Structures
+---------------
+1. lists				-	arrays
+2. dictionary		-	hash or associative array
+3. Tuple
+4. Set
+
+
+List
+----
+Same as arrays
+
+Array
+-----
+1. collection of homogenous data
+2. memory allocation is contigious
+
+
+Lists
+-----
+collection of hetrogenous data
+memory allocation is not contigious
+ordered collection
+they are mutable
+they are subscriptable
+lists are enclosed in [ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+Dictionary
+----------
+also called as a hash or associative array
+
+-------------------------------------------------------
+
+step - 1
+--------
+index -  0    1    2    3    4    5 
+
+array - 'a', 'b', 'c', 'd', 'e', 'f'
+
+
+step - 2
+--------
+dict1 = {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5, 'f'}
+
+player = {'name': 'Sachin', 'runs': 85, 'oopn': 'Aus', 'year': 1998}
+
+
+dictionary
+----------
+1. keys are always unique
+2. unordered collection
+3. dictionary is a collection of key and value pair
+4. it is mutable
+5. dictionaries are enclosed in { } 
+
+player = {'name': 'Sachin', 'runs': 85, 'oopn': 'Aus', 'year': 1998}
+
+Functions to manipulate a dictionary
+------------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+Tuple
+-----
+1. tuples are immutable list
+2. same properties of a list except that they are immutable
+3. tuples are enclosed on (  )
+
+
+Set
+---
+1. is collection of unique values
+2. unoredered collection
+3. not subscriptable
+4. mutable
+5. they are enclosed in { }
+
+
+Data structures
+---------------
+List, dictionary, tuple , set
+
+Functions
+---------
+reusable code 
+
+passing arguments
+return values
+recursive call
+varaible length arguments
+doc strings
+
+
+
+Assignment
+------------
+sort
+-----
+
+1. cities = ['thiruvananthapuram', 'pune', 'hyderabad', 'delhi', 'bangalore', 'mumbai', 'vishakapatnam', 'kolkota', 'chennai', 'ooty']
+
+sort the cities by their length (string length)
+
+
+2. months = ['dec', 'apr', 'aug', 'feb', 'mar', 'oct', 'sep', 'jan', 'nov', 'jul', 'may', 'jun']
+	sort the above months based on the calendar (calendar - module)
+

@@ -123,7 +123,9 @@ they are subscriptable
 lists are enclosed in [ ]
 
 
-
+List manipulation functions
+---------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
 
 
 

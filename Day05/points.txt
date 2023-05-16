@@ -1,0 +1,119 @@
+
+def sub(a, b):
+	return a - b
+
+
+sub(10, 5)		=	5
+sub(5, 10)		=	5 (not -5)
+
+def makepositive(func):
+    def wrapper(*args):
+        result = func(*args)
+        return abs(result)
+
+    return wrapper
+
+
+@makepositive
+def sub(a, b):
+    return a - b
+
+
+print(sub(10, 5))
+print(sub(5, 10))
+
+
+---------------------------------------------------
+
+write code to calculate the time taken by a function to execute using decorator
+
+
+
+
+Object Oriented Programming (OOPS)
+----------------------------------
+
+1. inheritance		- reusability of the code 
+
+Baking project
+--------------
+
+withdraw of money from account
+------------------------------
+1. cheque
+2. DD
+
+
+2. encapsulation
+3. polymorphism
+4. abstraction
+
+Inheritance
+-----------
+class Withdraw:
+	
+	def cheque
+	
+	def DD
+
+Debit Card
+----------
+
+
+class WD(Withdraw):
+	
+	def debit_card
+
+	def Etransfer
+
+Polymorphism
+------------
+
+Debit Card (ICICI) -	Normal Card - wd limit - 40K per day
+
+						Gold Card	 - wd limit - 1 lakh per day
+				
+						platinum Card - wd limit - 2.5 lakh per day	   
+
+
+ATM - 		3 persons
+
+			1p - Gold card   - 1 lakh
+		
+			2p - normal card - max 40k
+
+			3p - platinum card - 2.5 lakhs
+
+
+
+
+Assignment
+----------
+
+class Player:
+
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+        print("Ctor.......")
+
+    def get_detials(self):
+        print(f"Name is {self.name} and Age is {self.age} ")
+
+
+Accept DOB instead of age and sort this using class method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+10 + 20 =>  calls a method to add the numbers __add__() (magic method)
+
+1. class
+2. object
+3. isinstance
+4. __init__ constructor
+5. self, __dict__
+6. class attribute
+7. class Method - @classmethod
+8. cls
+9. __str__
+10. __eq__, __gt__, @totalordering
+11. __add__, __sub__, __mul__.....
+12. private variables with __
+13. property, @property
+
+Packages and Modules
+--------------------
+
+Modules  - Libraries in other technologies
+
+any python file can be considered as a module, there is no specific extension for modules
+
+
+
+Packages
+--------
+all modules that work for a particular task will be stored in a folder 
+
+the folder that holds the modules is called as a package
+
+
+import module
+-------------
+
+* module will be converted from .py to .pyc file that is compiled copy of the file and then consumed
+
+* all modules should be stored in lib path is set to (Evn Variable)
+
+* python checks for .pth file in python root path, if the file exists then import the path into library path
+
+* python compares the date and time of creation of .py and .pyc file. python always expects the .pyc file to have the latest date and time
+
+
+add a file in python root directory with any name and extension should be .pth
+
+import module
+import package.module
+
+from module import function or class
+from package import a module
+from package import *
+
+
+packages were compared with classes
+------------------------------------
+
+package - __init__.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

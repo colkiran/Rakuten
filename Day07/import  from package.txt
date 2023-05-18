@@ -1,0 +1,99 @@
+import * from package
+
+mypacakage(folder)
+
+mymodule1		- hidden
+mymodule2		- hidden
+mymodule3		- share
+mymodule4		- share
+mymodule4		- share
+
+
+Create a Folder 
+
+Package-Example
+---------------
+
+	1. src folder
+		__init__.py
+		add package.py
+
+	2. test folder
+
+
+pip install --upgrade build
+
+python -m build
+
+------------------------------------------------------------
+
+Exceptions
+----------
+
+import sys
+
+sys.exec_info
+
+
+
+try
+	code
+
+except
+	exception -> keyword
+
+else
+	no execption raised - then execute
+
+finaly
+	execute the code in finally block
+
+raise ValueError(Message)
+
+
+
+
+File handling
+• Introduction to file handling
+• Open a file
+• Reading a file
+• Writing into a file
+• Appending into a file
+
+
+Working on different file formats
+• CSV files
+• Json file
+• XML file
+• Excel file
+
+
+File Handling
+-------------
+Open a file and read the contents of the file
+
+Open a file - Mode of opening the file - read, write and append mode
+
+read 	- r
+
+write 	- w
+
+append - a
+
+filehandle = open(path + filename, mode)
+
+Notepad file - ascii values
+
+
+Read and write Excel files
+--------------------------
+openpyxl -> 
+
+
+
+
+
+
+
+
+

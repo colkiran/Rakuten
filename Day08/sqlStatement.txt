@@ -1,0 +1,5 @@
+insert into players value ("PLY01", "Sachin Tendulkar", "Cricket", "India", "38750 runs")
+insert into players value ("PLY02", "Lionel Messi", "Soccer", "Argentina", "8 balondors")
+insert into players value ("PLY03", "Mike Tyson", "Boxer", "USA", "85 Knockouts")
+insert into players value ("PLY04", "Roger Fedrer", "Tennis", "Switzerland", "65 grand slams")
+insert into players value ("PLY05", "P V Sindhu", "Badmiton", "India", "Olympic Bronze Medal")

@@ -1,0 +1,34 @@
+Json
+
+XML
+
+Database - pymysql  - Mysql
+
+
+NUMPY
+-----
+
+Numpy and Pandas - Libraries for data engineering
+
+
+Machine Learning
+----------------
+1. Data Engineering (Numpy, Pandas, Spark)
+
+2. Basic of Data Analytics
+
+3. ETL 
+
+4. Machine Learning 
+
+Numpy is a library designed to work with Arrays it is faster than lists (50x faster).
+
+Numpy was found by Travis Oliphant
+
+Numpy is also an opensource
+
+
+
+
+
+

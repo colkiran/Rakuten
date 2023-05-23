@@ -1,0 +1,32 @@
+Broadcasting
+-------------
+
+Pandas
+------
+
+
+Cleaning Data
+--------------
+Cleaning Empty Cells
+Cleaning Wrong Format
+Cleaning Wrong Data
+Removing Duplicates
+
+
+ETL - E -Extract data from the source
+	  T - implement some business logic
+      L - load it as new dataframe for plotting graphs
+
+
+Scipy
+-----
+Scipy is a scientific computation library that uses numpy underneath
+
+scipy stands for scientific python
+
+it provides more utility functions for optimization, stat and signal processing
+
+
+
+
+
